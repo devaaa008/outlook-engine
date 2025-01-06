@@ -1,0 +1,7 @@
+/dist
+/certs
+/node_modules
+
+.env
+.idea
+.gitconfig
