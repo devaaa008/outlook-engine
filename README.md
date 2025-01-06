@@ -25,6 +25,7 @@ npm install
 ```
 
 ## Implementation
+Add Auth0 credentials in .env\
 Create and add certificate for elasticsearch configuration inside ./certs/http_ca.crt
 ```bash
 # Run local app
